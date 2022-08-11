@@ -44,7 +44,7 @@ ul {
 
 header,
 section {
-  max-width: 500px;
+  max-width: 300px;
   margin: 0 auto;
   
 }
@@ -67,4 +67,7 @@ section{
  text-align: end;
   
   
+}
+strong{
+  margin-left: 50px;
 }
