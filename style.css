@@ -1,0 +1,70 @@
+/* GLOBAL */
+*{
+  margin: 0;
+  padding: 0;
+}
+
+/* FONT */
+
+h1, h2, h3{
+  font-family: 'Roboto Serif', serif;
+  text-transform: uppercase;
+  margin: 10px 0;
+
+}
+
+/* SECTION */
+
+h1, h2{
+  text-align: center;
+  padding: 15px;
+}
+
+body{
+  background-color: #e0ceb6;
+  font-family: 'Roboto', sans-serif;
+  
+}
+
+li{
+  display: flex;
+  align-items: center ;
+  justify-content: space-between;
+  margin-bottom: 16px;
+}
+span{
+  color: #995000;
+}
+
+ul {
+  list-style: none;
+}
+
+
+
+header,
+section {
+  max-width: 500px;
+  margin: 0 auto;
+  
+}
+
+li, box{
+  
+                                                           
+}
+
+section{
+  margin-bottom: 24px;
+}
+
+.price{
+  display: flex;
+  flex-direction: column;
+}
+
+.double{
+ text-align: end;
+  
+  
+}
